@@ -1,11 +1,7 @@
 ## Hi there 👋
 
-<!--
-**ShubhamBhavsar101/ShubhamBhavsar101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+My name is Shubham Bhavsar, a Software Engineer trained in DevOps and AWS Cloud.
+- 🔭 I’m currently working on building a CI CD Pipeline with AWS, Kubernetes, Docker.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
