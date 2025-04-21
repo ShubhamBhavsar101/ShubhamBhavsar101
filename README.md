@@ -1,6 +1,6 @@
 ## Hi Everyone👋
 
-### My name is Shubham Bhavsar, a Software Engineer trained in DevOps and AWS Cloud.
+### My name is Shubham Bhavsar, a Software Engineer working in DevOps and AWS Cloud.
 - 🔭 I’m currently working on building a CI CD Pipeline with AWS, Kubernetes, Docker.
 ---
 ### My Tech Stack
