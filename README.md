@@ -1,28 +1,12 @@
 ## Hi Everyone👋
 
 ### My name is Shubham Bhavsar, a Software Engineer working in DevOps and AWS Cloud.
-🌱 I’m currently enhancing my skills in DevOps practices and tools  
-🔭 I’m currently working on building a CI CD Pipeline with AWS, Kubernetes, Docker  
-👨‍💻 All of my projects are available at this Repository  
-📫 How to reach me: Shubhamcbhavsar198@gmail.com  
+ 🔭 I’m currently working on building a CI CD Pipeline with AWS, Kubernetes, Docker  
+ 👨‍💻 All of my projects are available at this Repository  
+ 📫 How to reach me: Shubhamcbhavsar198@gmail.com  
 
 ---
 ### My Tech Stack
-<p align=left>
-
-
-
-
-
-
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50"/>
-<img src=https://www.vectorlogo.zone/logos/informatica/informatica-icon.svg width=50 height=50 />
-</p>
-
-
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
@@ -36,13 +20,14 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
+---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ShubhamBhavsar101&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShubhamBhavsar101&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamBhavsar101&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--
+- 🌱 I’m currently enhancing my skills in DevOps practices and tools 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
